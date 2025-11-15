@@ -1,0 +1,5 @@
+telebot
+Flask
+gunicorn
+requests
+cloudscraper
